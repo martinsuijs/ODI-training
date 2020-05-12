@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="FHQtYVSOf4BTnUUsrGTy3w==" exportKeySalt="5eee6b72-504f-4545-9703-9fe88d9d6fe5" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="YCXgeX78plOn6WzRrziVyg==" exportKeySalt="15fc76e8-8daa-42d8-9208-72d886373bef" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpProject">
 		<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
 	<Field name="ExtVersion" type="java.lang.String">null</Field>
@@ -11,7 +11,7 @@
 	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
 	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
-	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-05-11 23:02:23.0]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2020-05-11 23:31:00.0]]></Field>
 	<Field name="LastUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="ProjectCode" type="java.lang.String"><![CDATA[DWH]]></Field>
 	<Field name="ProjectName" type="java.lang.String"><![CDATA[DWH]]></Field>
@@ -23,8 +23,16 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[STG]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[92221497-3b16-47e0-ad27-0fddac9fc7a9]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[79a51704b97d846d7389705adc5e77c4dcd1ed25]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[d711795bda6b8c3dad5ada2bf9f60a6ca4e00d19]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[STG/FOLD_STG.xml]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
+		<Field name="Type" type="java.lang.String"><![CDATA[SnpTrt]]></Field>
+	<Field name="SubType" type="java.lang.String"><![CDATA[KC]]></Field>
+	<Field name="Name" type="java.lang.String"><![CDATA[CKM Oracle]]></Field>
+	<Field name="GlobalId" type="java.lang.String"><![CDATA[da34ebbf-78d8-4fc1-972f-69dce3f64284]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[069f4925540eb848c1fa7072bc0a83b026361703]]></Field>
+	<Field name="Path" type="java.lang.String"><![CDATA[Knowledge Modules/Check(CKM)/KM_CKM_Oracle.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
 		<Field name="GlobalId" type="java.lang.String"><![CDATA[bbf7e3ad-0672-4fba-a37c-9146c5c2a86b]]></Field>
