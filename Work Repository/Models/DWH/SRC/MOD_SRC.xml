@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SunopsisExport>
 <Admin RepositoryVersion="05.02.02.05" IsLegacyIdCompatible="false" />
-<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="rDgaUHq3pNBvaDpPjj/aCw==" exportKeySalt="ac9f1db3-c7ca-497a-8171-32883deaf143" containsCipherText="false"/>
+<Encryption algorithm="AES" keyLength="128" exportKeyHash="" keyVect="4RR7H/LW+kQb+frsLOSxFg==" exportKeySalt="7e89ed1a-d6e3-4e25-84a0-86b3d4c1a14a" containsCipherText="false"/>
 <Object class="com.sunopsis.dwg.dbobj.SnpModel">
 		<Field name="AliasLength" type="com.sunopsis.sql.DbInt"><![CDATA[35]]></Field>
 	<Field name="BegVersion" type="java.sql.Timestamp">null</Field>
@@ -11,7 +11,7 @@
 	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2020-05-11 04:34:19.0]]></Field>
 	<Field name="FirstUser" type="java.lang.String"><![CDATA[SUPERVISOR]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[db8b745e-920b-4545-b6ab-fc8b7d5c983f]]></Field>
-	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndChange" type="java.lang.String">null</Field>
 	<Field name="IndEvoJdbc" type="java.lang.String"><![CDATA[0]]></Field>
 	<Field name="IndJrnMethod" type="java.lang.String"><![CDATA[S]]></Field>
 	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
@@ -65,7 +65,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[Global]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[1577c0b3-7105-466c-9f9f-a59d1fd6bd60]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[c3419efce33b0a11de7bf92a4734a0181cbb2d9d]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[5067e4b4bda3b5e43fa654a70c9da16007ff4227]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[Global/SMOD_Global.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpChildFCO">
@@ -73,7 +73,7 @@
 	<Field name="SubType" type="java.lang.String">null</Field>
 	<Field name="Name" type="java.lang.String"><![CDATA[ORDERS]]></Field>
 	<Field name="GlobalId" type="java.lang.String"><![CDATA[0b6c1647-86da-4bdb-8f18-e24124b32773]]></Field>
-	<Field name="Version" type="java.lang.String"><![CDATA[c3941d343b3c62d06450a9ffbba6cf91319074d7]]></Field>
+	<Field name="Version" type="java.lang.String"><![CDATA[02631e4d9110aefe1a62cc584bd52987c34d2c39]]></Field>
 	<Field name="Path" type="java.lang.String"><![CDATA[ORDERS/SMOD_ORDERS.xml]]></Field>
 </Object>
 <Object class="com.sunopsis.dwg.dbobj.SnpFKXRef">
